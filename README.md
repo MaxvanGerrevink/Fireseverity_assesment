@@ -30,18 +30,18 @@ An optimality score of one indicates that an index performs ideally in monitorin
 
 
 ### References ###
-De Santis, A., Chuvieco, E., 2009. GeoCBI: A modified version of the Composite Burn Index for the initial assessment of the short-term burn severity from remotely sensed data. Remote Sensing of Environment 113, 554–562. https://doi.org/10.1016/j.rse.2008.10.011
+- De Santis, A., Chuvieco, E., 2009. GeoCBI: A modified version of the Composite Burn Index for the initial assessment of the short-term burn severity from remotely sensed data. Remote Sensing of Environment 113, 554–562. https://doi.org/10.1016/j.rse.2008.10.011
 
-García, M.J.L., Caselles, V., 1991. Mapping burns and natural reforestation using thematic mapper data. Geocarto International 6, 31–37. https://doi.org/10.1080/10106049109354290
+- García, M.J.L., Caselles, V., 1991. Mapping burns and natural reforestation using thematic mapper data. Geocarto International 6, 31–37. https://doi.org/10.1080/10106049109354290
 
-Hall, R.J., Freeburn, J.T., De Groot, W.J., Pritchard, J.M., Lynham, T.J., Landry, R., 2008. Remote sensing of burn severity: experience from western Canada boreal fires. International Journal of Wildland Fire 17, 476–489.
+- Hall, R.J., Freeburn, J.T., De Groot, W.J., Pritchard, J.M., Lynham, T.J., Landry, R., 2008. Remote sensing of burn severity: experience from western Canada boreal fires. International Journal of Wildland Fire 17, 476–489.
 
-Key, C.H.; Benson, N.C. Landscape Assessment (LA) Sampling and Analysis Methods. Available online: https://www.fs.usda.gov/treesearch/pubs/24066 (accessed on 20 January 2021).
+- Key, C.H.; Benson, N.C. Landscape Assessment (LA) Sampling and Analysis Methods. Available online: https://www.fs.usda.gov/treesearch/pubs/24066 (accessed on 20 January 2021).
 
-Roy, D.P., Boschetti, L., Trigg, S.N., 2006. Remote sensing of fire severity: Assessing the performance of the normalized burn ratio. IEEE Geoscience and Remote Sensing Letters 3, 112–116. https://doi.org/10.1109/LGRS.2005.858485
+- Roy, D.P., Boschetti, L., Trigg, S.N., 2006. Remote sensing of fire severity: Assessing the performance of the normalized burn ratio. IEEE Geoscience and Remote Sensing Letters 3, 112–116. https://doi.org/10.1109/LGRS.2005.858485
 
-Thenkabail, P.S., Smith, R.B., De Pauw, E., 2002. Evaluation of narrowband and broadband vegetation indices for determining optimal hyperspectral wavebands for agricultural crop characterization. Photogrammetric Engineering and Remote Sensing 68, 607–621.
+- Thenkabail, P.S., Smith, R.B., De Pauw, E., 2002. Evaluation of narrowband and broadband vegetation indices for determining optimal hyperspectral wavebands for agricultural crop characterization. Photogrammetric Engineering and Remote Sensing 68, 607–621.
 
-Veraverbeke, S.S.N., Verstraeten, W.W., Lhermitte, S., Goossens, R., 2010. Evaluating Landsat Thematic Mapper spectral indices for estimating burn severity of the 2007 Peloponnese wildfires in Greece. International Journal of Wildland Fire 19, 558–569. https://doi.org/10.1071/WF09069
+- Veraverbeke, S.S.N., Verstraeten, W.W., Lhermitte, S., Goossens, R., 2010. Evaluating Landsat Thematic Mapper spectral indices for estimating burn severity of the 2007 Peloponnese wildfires in Greece. International Journal of Wildland Fire 19, 558–569. https://doi.org/10.1071/WF09069
 
-Verstraete, M.M., Pinty, B., 1996. Designing optimal spectral indexes for remote sensing applications. IEEE Transactions on Geoscience and Remote Sensing 34, 1254–1265. https://doi.org/10.1109/36.536541
+- Verstraete, M.M., Pinty, B., 1996. Designing optimal spectral indexes for remote sensing applications. IEEE Transactions on Geoscience and Remote Sensing 34, 1254–1265. https://doi.org/10.1109/36.536541
