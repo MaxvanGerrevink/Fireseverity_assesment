@@ -8,10 +8,11 @@ stemming from the pre- and post-fire airborne acquisitions over the Rim (2013) a
 sensor. 
 
 # Spectral optimality #
-Spectral index optimality quantifies the index’s sensitivity to change, in this case fire-induced ecosystem changes (Roy et al., 2006; Veraverbeke et al., 2010). In the case of 
-normalized difference spectral indices, the optimality of an index is defined by the direction and magnitude of pixel displacements in the bi-spectral space (Verstraete and Pinty,
-1996).This can be illustrated by the displacement from unburned U to burned B in the bi-spectral space. Within the bi-spectral space, the y-axis represents the NIR reflectance for
-all indices. Whereas the x-axis represents the SWIR reflectance for the dNBR indices. The vector |UB| consists of the sum of the vectors |UO| and |OB|. A spectral index is then
+Spectral index optimality quantifies the index’s sensitivity to change, in this case fire-induced ecosystem changes (Roy et al., 2006; Veraverbeke et al., 2010). 
+In the case of normalized difference spectral indices, the optimality of an index is defined by the direction and magnitude of pixel displacements in the bi-spectral
+space (Verstraete and Pinty, 1996).This can be illustrated by the displacement from unburned U to burned B in the bi-spectral space. Within the bi-spectral space, 
+the y-axis represents the NIR reflectance forall indices. Whereas the x-axis represents the SWIR reflectance for the dNBR indices. The vector |UB| consists of the 
+sum of the vectors |UO| and |OB|. A spectral index is then
 sensitive to displacements that are perpendicular to the index isolines. In this case, the spectral index is sensitive to the displacement from U to the optimally sensed O. 
 In contrast, the spectral index is insensitive to displacements along isolines, in this case the vector |OB|. By measuring the distances of the vectors |UO| and |OB|, the index
 optimality is defined as:
