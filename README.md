@@ -3,7 +3,7 @@ This repository contains functions:
 - Saturated Growth Model for Field measurements of fire severity,
 - Spectral optimality functions for index evaluation.
 
-## Background information##
+## Background information ##
 Fire severity can be defined as the degree of environmental change induced by a fire and is  an important fire regime attribute of interest to fire emissions modelers and 
 post-fire rehabilitation planners. Remotely sensed fire severity is traditionally assessed using multispectral imagery by means of the differenced normalized burn ratio (dNBR) (García and Caselles, 1991).This spectral index is based on the fire-induced reflectance changes in the near infrared (NIR) and short-wave infrared (SWIR) spectral regions. Our study aims to evaluate the spectral sensitivity of the dNBR using hyperspectral imagery by identifying the optimal bi-spectral NIR-SWIR combination. This assessment capitalized upon the unique opportunity stemming from the pre- and post-fire airborne acquisitions over the Rim (2013) and King (2014) fires in California with the Airborne Visible/Infrared Imaging Spectrometer (AVIRIS) sensor. We were evaluated based on a comparison with 83 Geometrically structured Composite Burn Index (GeoCBI) field measurements of fire severity and an optimality statistic calculated for  fire-induced spectral displacements (De Santis and Chuvieco, 2009; Key and Benson, 2006; Roy et al., 2006; Thenkabail et al., 2002; Verstraete and Pinty, 1996).
 
