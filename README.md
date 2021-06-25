@@ -1,4 +1,4 @@
-## Fireseverity_assesment ##
+# Fire severity assesment using normalised spectral indicies #
 
 Fire severity can be defined as the degree of environmental change induced by a fire and is  an important fire regime attribute of interest to fire emissions modelers and 
 post-fire rehabilitation planners. Remotely sensed fire severity is traditionally assessed using multispectral imagery by means of the differenced normalized burn ratio (dNBR).
@@ -7,7 +7,7 @@ spectral sensitivity of the dNBR using hyperspectral imagery by identifying the 
 stemming from the pre- and post-fire airborne acquisitions over the Rim (2013) and King (2014) fires in California with the Airborne Visible/Infrared Imaging Spectrometer (AVIRIS)
 sensor. 
 
-# Spectral optimality #
+## Spectral optimality ##
 Spectral index optimality quantifies the index’s sensitivity to change, in this case fire-induced ecosystem changes (Roy et al., 2006; Veraverbeke et al., 2010). 
 In the case of normalized difference spectral indices, the optimality of an index is defined by the direction and magnitude of pixel displacements in the bi-spectral
 space (Verstraete and Pinty, 1996).This can be illustrated by the displacement from unburned U to burned B in the bi-spectral space. Within the bi-spectral space, 
@@ -24,4 +24,4 @@ An optimality score of one indicates that an index performs ideally in monitorin
 in this analysis.
 
 
-# References #
+## References ##
