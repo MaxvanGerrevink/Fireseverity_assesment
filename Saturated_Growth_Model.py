@@ -4,6 +4,9 @@ Created on Sun Nov 7 15:32:32 2020
 This script is aims to create a saturated growth model based on GeoCBI data.
 It calculates the optimal parameters for a saturated growth regression curve based on GeoCBI and spectral values. 
 These spectral values consist of differences between pre-and post-fire spectral imageries.
+
+Required packages: numpy version 1.20.2, scipy version 1.6.2, uncertainties version 3.1.5, sklearn 0.0.24 and math version 3.9.5.
+
 Based on this script the Saturated_Growth_model can be imported. 
 To do this in your own script use the following code:
 
@@ -14,12 +17,9 @@ To do this in your own script use the following code:
 By Max van Gerrevink
 """
 #%% Importing libaries
-import matplotlib.pyplot as plt
 import numpy as np
 from scipy.optimize import curve_fit
 import uncertainties.unumpy as unp
-from mpl_toolkits.axes_grid1.axes_divider import make_axes_locatable
-from matplotlib.ticker import (MultipleLocator, AutoMinorLocator)
 from sklearn.metrics import r2_score
 from sklearn.metrics import mean_squared_error
 from math import sqrt
