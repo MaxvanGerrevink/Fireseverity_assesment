@@ -45,8 +45,6 @@ def Saturated_Growth_Model(GeoCBI,SpectralIndex):
     a = np.around(popt[0],3) # Retrieving a-value from curve fitting
     b = np.around(popt[1],3) # Retrieving b-value from curve fitting
     
-
-    
     
     # predicted curve paramters
     px = np.linspace(0, 3.3,n) # Create list to compute saturated growth curve
